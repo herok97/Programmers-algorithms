@@ -5,21 +5,40 @@
 
 ### 1. Stack/Queue
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) (⭐⭐)
+- [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) (⭐⭐)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) (⭐⭐)
+
 
 ### 2. Heap
+- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) (⭐⭐)
 
-### 4. Hash
 
-### 5. Sorting
+### 3. Hash
+- [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) (⭐⭐)
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) (⭐⭐)
 
-### 6. Brute-Force/Exhaustive Search
 
-### 7. Greedy
+### 4. Sorting
+- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) (⭐⭐)
+- [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) (⭐⭐)
 
-### 8. Dynamic Programming
 
-### 9. Binary Search
 
-### 10. Graph
+### 5. Brute-Force/Exhaustive Search
+- [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) (⭐⭐)
+- [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) (⭐⭐)
 
-### 11. DFS/BFS
+
+
+### 6. Greedy
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) (⭐⭐)
+- 
+### 7. Dynamic Programming
+
+### 8. Binary Search
+
+### 9. Graph
+
+### 10. DFS/BFS
+- [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) (⭐⭐)
+- 
