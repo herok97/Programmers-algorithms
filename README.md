@@ -6,7 +6,7 @@
 ~~[연습문제](https://programmers.co.kr/learn/courses/30/lessons/12899)~~ (난이도: ⭐⭐ 소요시간: 15분)
 
 ### 1. Stack/Queue
-- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) (난이도: ⭐⭐)
+- ~~[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)~~ (난이도: ⭐⭐ 소요시간: 30분)
 - ~~[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)~~ (난이도: ⭐⭐ 소요시간: 31분)
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) (⭐⭐)
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) (⭐⭐)
