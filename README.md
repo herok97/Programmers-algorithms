@@ -13,7 +13,7 @@
 
 ### 2. Heap
 - ~~[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)~~ (난이도: ⭐⭐ 소요시간: 27분)
-- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) (⭐⭐⭐)
+- ~~[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)~~ (난이도: ⭐⭐⭐ 소요시간: 1시간 30분)
 - ~~[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)~~ (난이도: ⭐⭐⭐ 소요시간: 12분)
 
 ### 3. Hash
