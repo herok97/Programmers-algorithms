@@ -17,7 +17,7 @@
 - ~~[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)~~ (난이도: ⭐⭐⭐ 소요시간: 12분)
 
 ### 3. Hash
-- [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) (⭐⭐)
+- ~~[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)~~ (난이도: ⭐⭐ 소요시간: 1시간 5분)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) (⭐⭐)
 - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) (⭐⭐⭐)
 
